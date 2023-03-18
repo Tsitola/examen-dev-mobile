@@ -1,6 +1,9 @@
 # examen_mobile
 
 A new Flutter project.
+By :
+  - NOMENJANAHARY Tsitola Fifaliana - TCO STM
+  - RANDRIATSIZAFY Solohery Sarobidy - TCO STM
 
 ## Getting Started
 
