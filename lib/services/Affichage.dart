@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:examen/services/destination.dart';
+import 'package:examen_mobile/services/destination.dart';
 
 
 class AffichageDestination{

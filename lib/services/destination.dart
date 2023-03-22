@@ -1,4 +1,4 @@
-class Destination{
+class Destination {
 
   String name;
   String img1;
@@ -8,7 +8,7 @@ class Destination{
 
   Destination({
     required this.name,
-    required this.img1,g
+    required this.img1,
     required this.img2,
     required this.price,
     required this.description
